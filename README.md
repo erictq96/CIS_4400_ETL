@@ -56,3 +56,6 @@ Please contact me via emails or linkedin message (info below)
 * Hung "Eric" Tran
 * erictq96@gmail.com or tranhu06@gmail.com
 * https://www.linkedin.com/in/erictq96/
+
+## References
+* How To Load Dataframes Onto Big Query: https://www.youtube.com/watch?v=rpy-PiEapT8&t=51s
