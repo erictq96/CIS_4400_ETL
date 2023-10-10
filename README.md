@@ -1,4 +1,4 @@
-# ETL-Data-Warehouse-Hung-Eric-Tran
+# Indochina Countries Covid-19 Data Engineer Project
 
 This project focuses on Covid-19 situation in Indochina countries, which are Cambodia, Laos, Myanmar, Thailand, and Vietnam.
 
